@@ -5,3 +5,9 @@ h1, h2, h3 {
 main {
     font-family: 'Anton', sans-serif;
 }
+
+code {
+    font-family: 'VT323', monospace;
+}
+
+/* hideous font chosen to accentuate change to <code> <p> */
